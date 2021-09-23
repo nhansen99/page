@@ -1,0 +1,144 @@
+.firsth1 {
+  margin: 50px auto 0 auto;
+  position: relative;
+  top:40px;
+  font-family: 'Sacramento', serif;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.srtext {
+  text-align: left;
+
+}
+
+span {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+
+.top {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 40px;
+
+}
+
+.firstp {
+  color: #66BFBF;
+  top: 60px;
+  font-size: 2.5rem
+
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+
+p {
+
+  font-family: 'Merriweather', serif;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 47%;
+  left: 14%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 17%;
+  top: 40px;
+}
+
+.comp-photo {
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.python {
+  width: 25%;
+  height: auto;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.btn {
+
+  padding: 10px 50px;
+  background-color: #66BFBF;
+  color: white;
+  border-radius: 10px;
+
+
+
+}
+
+.button {
+  padding-top: 50px;
+}
+
+.middle-container {
+  margin: 100px auto 0px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 25px;
+  margin-top: 55px;
+  color: white;
+  padding-bottom: 30px;
+  margin-bottom: 0;
+
+}
+
+.footer-link {
+  color: #11999E;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.copyright {
+  margin-top: 15px;
+  font-size: .75rem;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 6%;
+  color: #EAF6F6;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
